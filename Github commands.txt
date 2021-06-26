@@ -1,0 +1,26 @@
+Get is the verion control tool to fetch data from 
+
+gethub code hosting platform 
+
+
+git remote add origin "URL of git-hub repository"
+
+git pull origni master   ---to pull data from central repository to local
+
+git status --------------to check which files are not there in index(new files)
+
+git add filename  ----to add into local repository
+
+git add -A------to add all the new files in index
+
+git commit -m "message" ---to commit the changes (m is to add message)
+
+git commit -a to commit all the files in one go(small a)
+
+git log -----to see all the commit history (log)
+
+git branch branchName -------------to create a branch
+
+git checkout branchName-------to switch to other branch
+
+git merge branchName-------to merge the branch(you have to checkout in destination branch..lets say you are merging master branch and firstbranch checkout in master branch and merge firstbranch into master)
