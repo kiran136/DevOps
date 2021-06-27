@@ -1,3 +1,5 @@
 This is test Git file
 for developer branch
 from master branch
+To make conflict 
+
